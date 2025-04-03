@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\56805860881\\Desktop\\Projeto Jogos\\Projeto Jogos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC3F63-12A0-4C4F-91A4-CF58F2123A36}|Projeto Jogos.csproj|c:\\users\\56805860881\\desktop\\projeto jogos\\projeto jogos\\repositories\\usuariosrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC3F63-12A0-4C4F-91A4-CF58F2123A36}|Projeto Jogos.csproj|solutionrelative:repositories\\usuariosrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC3F63-12A0-4C4F-91A4-CF58F2123A36}|Projeto Jogos.csproj|c:\\users\\56805860881\\desktop\\projeto jogos\\projeto jogos\\repositories\\jogosrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC3F63-12A0-4C4F-91A4-CF58F2123A36}|Projeto Jogos.csproj|solutionrelative:repositories\\jogosrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\56805860881\\Desktop\\Projeto Jogos\\Projeto Jogos\\Repositories\\UsuariosRepositorie.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuariosRepositorie.cs",
+              "ToolTip": "C:\\Users\\56805860881\\Desktop\\Projeto Jogos\\Projeto Jogos\\Repositories\\UsuariosRepositorie.cs",
+              "RelativeToolTip": "Repositories\\UsuariosRepositorie.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:29:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogosRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\56805860881\\Desktop\\Projeto Jogos\\Projeto Jogos\\Repositories\\JogosRepositorie.cs",
+              "RelativeDocumentMoniker": "Repositories\\JogosRepositorie.cs",
+              "ToolTip": "C:\\Users\\56805860881\\Desktop\\Projeto Jogos\\Projeto Jogos\\Repositories\\JogosRepositorie.cs",
+              "RelativeToolTip": "Repositories\\JogosRepositorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:27:26.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
